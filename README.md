@@ -1,5 +1,7 @@
 # Camera calibration (distortion correction) tutorial
 
+
+
 This tutorial describes how to use the checkerboard_calib and calibrate_camera functions to correct camera distortions.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-tutorial-camera-calibration.git/HEAD)
