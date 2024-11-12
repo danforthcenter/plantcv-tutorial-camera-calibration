@@ -1,6 +1,6 @@
 # Camera calibration (distortion correction) tutorial
 
-
+[![test-pr](https://github.com/danforthcenter/plantcv-tutorial-camera-calibration/actions/workflows/ci-tests.yml/badge.svg)](https://github.com/danforthcenter/plantcv-tutorial-camera-calibration/actions/workflows/ci-tests.yml)
 
 This tutorial describes how to use the checkerboard_calib and calibrate_camera functions to correct camera distortions.
 
