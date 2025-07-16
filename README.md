@@ -6,9 +6,7 @@ This tutorial describes how to use the checkerboard_calib and calibrate_camera f
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-tutorial-camera-calibration.git/HEAD)
 
-<a target="_blank" href="https://colab.research.google.com/github/https://mybinder.org/v2/gh/danforthcenter/plantcv-tutorial-camera-calibration.git/HEAD">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danforthcenter/plantcv-tutorial-camera-calibration/blob/main/index-Colab.ipynb)
 
 ![Static Badge](https://img.shields.io/badge/Open%20on%20GitHub-black?logo=github)
 
