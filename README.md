@@ -6,6 +6,8 @@ This tutorial describes how to use the checkerboard_calib and calibrate_camera f
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danforthcenter/plantcv-tutorial-camera-calibration/blob/main/index-Colab.ipynb)
 
+![Static Badge](https://img.shields.io/badge/Open%20on%20GitHub-black?logo=github)
+
 ## Tutorial tags/keywords
 
 calibration, transform, checkerboard, distortion, RGB, tutorial
