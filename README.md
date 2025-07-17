@@ -7,6 +7,7 @@ This tutorial describes how to use the checkerboard_calib and calibrate_camera f
 Check out our interactive tutorial!
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-tutorial-camera-calibration.git/HEAD)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danforthcenter/plantcv-tutorial-camera-calibration/blob/main/index-Colab.ipynb)
 
 ## Google Colaboratory Users: Clone this repository to your Google Drive
 1. Install and add [Google Colaboratory](https://workspace.google.com/u/1/marketplace/app/colaboratory/1014160490159?pann=ogb) to your Google Workspace.
